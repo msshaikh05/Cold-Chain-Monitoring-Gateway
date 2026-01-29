@@ -10,8 +10,8 @@
 #include <BLEAdvertisedDevice.h>
 
 /* ================= WIFI ================= */
-const char* ssid = "AirFiber-MS";
-const char* password = "rwnt9678";
+const char* ssid = "ColdChain_Router";
+const char* password = "Internet";
 
 /* ================= AWS ================= */
 #define AWS_IOT_ENDPOINT "a10u7l90ksgr1m-ats.iot.ap-south-1.amazonaws.com"
